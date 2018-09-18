@@ -162,5 +162,5 @@ Blood pressure, mean (SD)   .        157.39 (13.54)   .        150.42 (11.66)   
 
 */
 
-Nhược điểm: 
 Ưu điểm: package table2 chỉnh sửa dựa trên package table1 vậy nên cú pháp sẽ không thay đổi, help table1 để biết nhiều thông tin hơn
+Nhược điểm: khi sử dụng table2 sẽ không áp dụng được option percent trong package table1 cũ.
