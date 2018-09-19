@@ -7,7 +7,11 @@ Ngoài ra package có những lựa chọn để tính toán các test thống k
 * Tải bộ số liệu thực hành theo help file của mrtab
 use "http://fmwww.bc.edu/RePEc/bocode/d/drugs.dta", clear
 //Số liệu điều tra người nghiện ma túy tại Thụy Sỹ năm 1997
-
+* tải package
+capture which mrtab
+if _rc == 111 {
+ssc install mrtab
+}
 * Câu hỏi về nguồn thu nhập (Sources of income) là các biến từ inc1-inco7
 * Mỗi biến có 2 lựa chọn 0=no 1=yes
 * Sử dụng package table1 để check số liệu trước khi sử dụng mrtab
