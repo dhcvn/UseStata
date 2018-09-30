@@ -1,4 +1,5 @@
 **-----------Thực hành lại đoạn codes theo post của Dr.Tuấn Linh
+***Links:https://notebooks.azure.com/duongtuanlinh/libraries/Pandas/html/Tuberculosis-Vie%CC%A3%CC%82t%20Nam.ipynb
 version 14.0
 set more off
 **Created: 29/09/2018
