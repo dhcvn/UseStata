@@ -1,4 +1,4 @@
-**-----------Thuc hanh so lieu Lao
+**-----------Thực hành lại đoạn codes theo post của Dr.Tuấn Linh
 version 14.0
 set more off
 **Created: 29/09/2018
@@ -54,5 +54,5 @@ reshape long new_@, i(year) j(type) string
 split type, p(_)
 rename (new_ type1 type2 type3) (cases tb_forms sex agegroup)
 
-** Tính toán số lượng
+** Tính toán số lượng cases theo năm
 collapse (sum) cases, by(year)
