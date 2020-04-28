@@ -1,10 +1,10 @@
 # Dao Huy Cu/ Stata user
 
-Sử dụng Stata trong quản lý số liệu nghiên cứu, dự án.
+*Sử dụng Stata trong quản lý số liệu nghiên cứu, dự án.*
 
-I. Chủ đề chung
+**I. Chủ đề chung**
 
-1. Sử dụng Stata như một notebook với jupyter lab
+**_1. Sử dụng Stata như một notebook với jupyter lab_**
 
     1.1. Cài đặt stata (phiên bản 14 hoặc mới hơn) 
   
@@ -16,7 +16,7 @@ I. Chủ đề chung
   
     1.5. Ví dụ sử dụng Stata notebook trong jupyter lab
   
-2. Data work flow khi xử lý và phân tích số liệu với Stata
+**_2. Data work flow khi xử lý và phân tích số liệu với Stata_**
 
     2.1. Thiết lập môi trường làm việc
   
@@ -24,6 +24,6 @@ I. Chủ đề chung
   
     2.3. Template file làm việc với Stata notebook
   
-3. Tài liệu tham khảo
+**_3. Tài liệu tham khảo_**
 
 II. Các chủ đề cụ thể
