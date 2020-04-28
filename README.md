@@ -1,4 +1,4 @@
-# My-Stata-notes
+# Dao Huy Cu/ Stata lover
 Sử dụng Stata trong quản lý số liệu nghiên cứu, dự án.
 
 1. Sử dụng Stata như một notebook với jupyter lab
