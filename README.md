@@ -12,7 +12,7 @@ I. Chủ đề chung
   
     1.3. Cài đặt jupyter lab
   
-    1.4. Cài đặt Stata kernel với syntax highlight
+    1.4. Cài đặt Stata kernel và stata syntax highlight
   
     1.5. Ví dụ sử dụng Stata notebook trong jupyter lab
   
