@@ -7,9 +7,8 @@
 **_1. Sử dụng Stata như một notebook với jupyter lab_**
 
     1.1. Cài đặt stata (phiên bản 14 hoặc mới hơn) 
-  
     1.2. Cài đặt python (phiên bản gần nhất)
-  
+    
     1.3. Cài đặt jupyter lab
   
     1.4. Cài đặt Stata kernel và stata syntax highlight
@@ -27,7 +26,7 @@
     
    **_Thiết lập môi trường làm việc có lợi ích gì?_**
    
-    Bản thân tôi có thói quen giữ tất cả dofile và một số số liệu thường dùng trên dropbox hoặc driver và cũng có 2 máy tính khác nhau với tên máy khác nhau. Có lúc làm việc trên máy tính labtop, nhưng cũng có khi làm việc trên máy tính để bàn cho nên bước thiết lập môi trường làm việc này hết sức quan trọng đối với tôi. Nó giúp tôi tiết kiệm thời gian truy xuất công việc và số liệu tôi đang làm việc.
+    Bản thân tôi có thói quen giữ tất cả dofile và một số số liệu thường dùng trên dropbox hoặc google driver và cũng có 2 máy tính khác nhau. Có lúc làm việc trên máy tính labtop, nhưng cũng có khi làm việc trên máy tính để bàn cho nên bước thiết lập môi trường làm việc này hết sức quan trọng đối với tôi. Nó giúp tôi tiết kiệm thời gian truy xuất công việc và số liệu tôi đang làm việc.
     1. Tạo adofile các thư mục, đường dẫn tới thư mục để truy xuất mỗi lần khởi chạy stata.
     2. Thiết lập username và pattern của đường dẫn. Dưới đây là 1 ví dụ.
   
