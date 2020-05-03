@@ -6,8 +6,8 @@
 
 **_1. Sử dụng Stata như một notebook với jupyter lab_**
 
-    1.1. Cài đặt stata (phiên bản 14 hoặc mới hơn)
-    - Stata là phần mềm bản quyền cần mua tại trang web chính thức của [Stata](https://www.stata.com/order/).
+    1.1. Cài đặt stata (phiên bản 14 hoặc mới hơn)   
+    - Stata là phần mềm bản quyền cần đặt tại trang web chính thức của [Stata](https://www.stata.com/order/).
     1.2. Cài đặt python (phiên bản gần nhất)
     - Cài đặt python phiên bản gần nhất [tại đây](https://www.python.org/downloads/)
     1.3. Cài đặt jupyter lab
