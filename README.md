@@ -7,15 +7,20 @@
 **_1. Sử dụng Stata như một notebook với jupyter lab_**
 
     1.1. Cài đặt stata (phiên bản 14 hoặc mới hơn)   
-    - Stata là phần mềm bản quyền cần đặt tại trang web chính thức của [Stata](https://www.stata.com/order/).
+   - Stata là phần mềm bản quyền cần đặt tại trang web chính thức của [Stata](https://www.stata.com/order/).
+   
     1.2. Cài đặt python (phiên bản gần nhất)
-    - Cài đặt python phiên bản gần nhất [tại đây](https://www.python.org/downloads/)
+   - Cài đặt python phiên bản gần nhất [tại đây](https://www.python.org/downloads/)
+   
     1.3. Cài đặt jupyter lab
-    - Hướng dẫn cài đặt [tại đây](https://jupyterlab.readthedocs.io/en/stable/getting_started/installation.html)
+   - Hướng dẫn cài đặt [tại đây](https://jupyterlab.readthedocs.io/en/stable/getting_started/installation.html)
+   
     1.4. Cài đặt Stata kernel và stata syntax highlight
-    - Hướng dẫn chi tiết [tại đây](https://kylebarron.dev/stata_kernel/)
+   - Hướng dẫn chi tiết [tại đây](https://kylebarron.dev/stata_kernel/)
+   
     1.5. Ví dụ sử dụng Stata notebook trong jupyter lab
-    - Đây là 1 ví dụ về cách sử dụng Stata notebook trong jupyter lab 
+   - Đây là 1 ví dụ về cách sử dụng Stata notebook trong jupyter lab 
+   
 **_2. Data work flow khi xử lý và phân tích số liệu với Stata_**
 
     2.1. Thiết lập môi trường làm việc
