@@ -23,7 +23,7 @@
    
 **_2. Data work flow khi xử lý và phân tích số liệu với Stata_**
 
-    2.1. Thiết lập môi trường làm việc
+    2.1. Thiết lập môi trường làm việc trong Stata
     
    **_Tại sao cần thiết lập môi trường làm việc trong stata?_**
     
