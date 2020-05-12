@@ -29,17 +29,15 @@
     
     - Khi làm việc có thể số liệu được chia sẻ cho nhiều người cùng 1 nhóm hoặc cho đồng nghiệp/bạn bè.
     - Khi thay đổi ổ đĩa lưu trữ hoặc có nhiều máy tính khác nhau với tên máy tính khác nhau
+    - Khi chạy dofile của một người khác nhưng các câu lệnh bổ sung chưa được cài đặt
     
    **_Thiết lập môi trường làm việc có lợi ích gì?_**
    
     Bản thân tôi có thói quen giữ tất cả dofile và một số số liệu thường dùng trên dropbox hoặc google driver và cũng có 2 máy tính khác nhau. Có lúc làm việc trên máy tính labtop, nhưng cũng có khi làm việc trên máy tính để bàn cho nên bước thiết lập môi trường làm việc này hết sức quan trọng đối với tôi. Nó giúp tôi tiết kiệm thời gian truy xuất công việc và số liệu tôi đang làm việc.
-    1. Tạo adofile các thư mục, đường dẫn tới thư mục để truy xuất mỗi lần khởi chạy stata.
-    2. Thiết lập username và pattern của đường dẫn. Dưới đây là 1 ví dụ.
   
-    2.2. Cài đặt các câu lệnh bổ sung
-    Các user package sẽ giúp thực hiện những công việc mà các lệnh thông thường trong Stata không thực hiện được, khắc phục được những hạn chế của các câu lệnh được cài đặt mặc định. Trong quá trình sử dụng tôi tìm tòi và biết thêm nhiều user command hữu dụng mà chưa gặp bao giờ. Tôi lưu và cập nhật những packages bổ sung của tôi thống nhất cao, cũng tương tự như phần trên, 1 adofile sẽ được xây dựng để thực hiện công việc này. Dưới đây là 1 ví dụ.
-
-    2.3. Template file làm việc với Stata notebook
+    Cài đặt các câu lệnh bổ sung
+    Stata cho phép người dùng tự xây dựng câu lệnh của mình phù hợp với mục đích sử dụng và đã lưu trữ lại các câu lệnh mà người dùng xây dựng để có thể tái sử dụng.
+    Dưới đây là [ví dụ](https://nbviewer.jupyter.org/github/dhcvn/UseStata/blob/master/Setup-environment.ipynb) về thiết lập môi trường làm việc và [ví dụ](https://nbviewer.jupyter.org/github/dhcvn/UseStata/blob/master/Setup-packages.ipynb) về cách hệ thống câu lệnh bổ sung
   
 **_3. Tài liệu tham khảo_**
 
