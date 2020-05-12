@@ -38,7 +38,7 @@
     Cài đặt các câu lệnh bổ sung
     Stata cho phép người dùng tự xây dựng câu lệnh của mình phù hợp với mục đích sử dụng và đã lưu trữ lại các câu lệnh mà người dùng xây dựng để có thể tái sử dụng.
     
-    Dưới đây là [ví dụ](https://nbviewer.jupyter.org/github/dhcvn/UseStata/blob/master/Setup-environment.ipynb) về thiết lập môi trường làm việc và [ví dụ](https://nbviewer.jupyter.org/github/dhcvn/UseStata/blob/master/Setup-packages.ipynb) về cách hệ thống câu lệnh bổ sung
+   Dưới đây là [ví dụ](https://nbviewer.jupyter.org/github/dhcvn/UseStata/blob/master/Setup-environment.ipynb) về thiết lập môi trường làm việc và [ví dụ](https://nbviewer.jupyter.org/github/dhcvn/UseStata/blob/master/Setup-packages.ipynb) về cách hệ thống câu lệnh bổ sung
   
 **_3. Tài liệu tham khảo_**
 
