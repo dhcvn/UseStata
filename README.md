@@ -19,7 +19,7 @@
    - Hướng dẫn chi tiết [tại đây](https://kylebarron.dev/stata_kernel/)
    
     1.5. Ví dụ sử dụng Stata notebook trong jupyter lab
-   - [Đây](https://nbviewer.jupyter.org/github/dhcvn/UseStata/blob/master/Example.ipynb) là 1 ví dụ về cách sử dụng Stata notebook trong jupyter lab 
+   - Đây là 1 [ví dụ](https://nbviewer.jupyter.org/github/dhcvn/UseStata/blob/master/Example.ipynb) về cách sử dụng Stata notebook trong jupyter lab 
    
 **_2. Data work flow khi xử lý và phân tích số liệu với Stata_**
 
