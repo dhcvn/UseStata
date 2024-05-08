@@ -1,3 +1,3 @@
 # Dao Huy Cu/ Stata user
 
-## Nơi tôi viết về Stata :> 
+## Một số function và típs về Stata
